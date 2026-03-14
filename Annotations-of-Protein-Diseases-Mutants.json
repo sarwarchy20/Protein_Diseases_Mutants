@@ -1,64 +1,48 @@
-{
- "showToc": false,
- "title": "Q9UKR3 Protease Human Paralogs",
-
- "h2:caption": "Q9UKR3 Protease Paralogs",
-
- "md:info": "This page presents the detailed results of the **Q9UKR3 Protease Protein**.",
-
- "h3:caption": "List of Proteins",
-
- "table:unipList": {
-  "columns": ["l:Uniprot ID"],
-  "rows": [
-   ["Q9UKR3@Q9UKR3"]
-  ]
- },
-
- "page:Q9UKR3": {
-
-  "h2:caption": "P08217 and Q9Y5K2 Alignment",
-
-  "alnpdb:alignment": {
-   "pdb1": "data/P08217.pdb",
-   "name1": "P08217",
-   "pdb2": "data/Q9Y5K2.pdb",
-   "name2": "Q9Y5K2",
-   "alnpdb": "data/P08217_Q9Y5K2.pdb",
-   "lineLen": 70,
-   "info": "Aligned P08217 with Q9Y5K2 using PROTSUB. FATCAT alignment shows significant similarity (p-value = 1.44e-15)."
+{"showToc": false,
+"title": "Q9UKR3-Protease-Human-Paralogs", 
+"h2:caption": "Q9UKR3-Protease-Paralogs", 
+"md:info": "This page presents the detail results of the **Q9UKR3** **Protease** **Protein**.",
+"h3:caption2": "List of Proteins", 
+"table:unipList":
+  {"columns": ["l:Uniprot ID"],
+  "rows": [["Q9UKR3@Q9UKR3"]]},
+"page:Q9UKR3":
+{"h2:caption": "P08217 and Q9Y5K2 Alignment",
+ "alnpdb:alignment":{
+    "pdb1":"https://alphafold.ebi.ac.uk/files/AF-P08217-F1-model_v5.pdb",
+    "name1":"P08217",
+    "pdb2":"https://alphafold.ebi.ac.uk/files/AF-Q9Y5K2-F1-model_v5.pdb",
+    "name2":"Q9Y5K2",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
+    "lineLen":70,
+    "info":"Aligned P08217 with Q9Y5K2 using by PROTSUB. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
   },
-
   "h3:caption": "PCs plots",
-
-  "md:info": "Superimposed PC1 and PC2 extremes for two serine proteases: **P08217 (Chymotrypsin-like elastase family member 2A)** and **Q9Y5K2 (Kallikrein-4)**.",
-
-  "img:p1:3": {
-   "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc1.png",
-   "height": "230"
-  },
-
-  "img:p2:3": {
-   "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc2.png",
-   "height": "230"
-  },
-
-  "img:p3:3": {
-   "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/Q9Y5K2_scaled_50_pc1.png",
-   "height": "230"
-  },
-
-  "img:p4:3": {
-   "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/Q9Y5K2_scaled_50_pc2.png",
-   "height": "230"
-  },
-
-  "h3:caption": "Heatmap",
-
-  "img:heatmap:1": {
-   "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/heatmap.png",
-   "height": "600"
-  }
-
+  "md:info":"The superimposed figures of PC1 and PC2 extremes for two known serine proteases - **P08217:Chymotrypsin-like elastase family member 2A** and **Q9Y5K2:Kallikrein-4**.(Figures below, from left to right: PC1 and PC2 for P08217, PC1 and PC2 for Q9Y5K2)",
+  "img:logo1:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc1.png",
+        "height": "230",
+        "name1":"P08217_scaled_50_pc1"
+    },
+    "img:logo2:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc2.png",
+        "height": "230"
+    },
+   "img:logo3:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/Q9Y5K2_scaled_50_pc1.png",
+        "height": "230"
+    },
+   "img:logo4:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/Q9Y5K2_scaled_50_pc2.png",
+        "height": "230"
+    },
+"h3:caption": "Molecular Dynamics Simulations",
+"md:info":"Molecular Dynamics Simulations",
+  "img:logo5:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/overlap_heatmap.png",
+        "height": "460",
+        "name1":"overlap_heatmap.png"
+    }
  }
+}
 }
