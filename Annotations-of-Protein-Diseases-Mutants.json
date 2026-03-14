@@ -6,7 +6,7 @@
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
   "rows": [["TMPRSS3@TMPRSS3"]]},
-"page:Q9UKR3":
+"page:TMPRSS3":
 {"h2:caption": "Wild type and Mutant (C406R) Alignment",
  "alnpdb:alignment":{
     "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/fold_tmprss3_model_4.pdb",
