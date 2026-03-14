@@ -1,18 +1,18 @@
 {"showToc": false,
 "title": "Annotations of Protein Diseases Mutants", 
 "h2:caption": "Annotations of Protein Diseases Mutants", 
-"md:info": "This page presents the detail results of the **Q9UKR3** **Protease** **Protein**.",
+"md:info": "This page presents the detail results of the **TMPRSS3** Protein.",
 "h3:caption2": "List of Proteins", 
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
-  "rows": [["Q9UKR3@Q9UKR3"]]},
+  "rows": [["TMPRSS3@TMPRSS3"]]},
 "page:Q9UKR3":
-{"h2:caption": "Wild type and Mutant Alignment",
+{"h2:caption": "Wild type and Mutant (C406R) Alignment",
  "alnpdb:alignment":{
     "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/fold_tmprss3_model_4.pdb",
-    "name1":"fold_tmprss3_model_4",
+    "name1":"Wild Type",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/fold_tmprss3_4_c406r_model_4.pdb",
-    "name2":"fold_tmprss3_4_c406r_model_4.",
+    "name2":"Mutant (C406R)",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
     "lineLen":70,
     "info":"Aligned P08217 with Q9Y5K2 using by PROTSUB. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
