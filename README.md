@@ -1,5 +1,5 @@
 # Protein_Diseases_Mutants
 Annotations of Protein Diseases Mutants
 
-https://jsonwp.onrender.com/?json=https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/Q9UKR3-Protease-Paralogs.json
+https://jsonwp.onrender.com/?json=https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/Annotations-of-Protein-Diseases-Mutants.json
 
