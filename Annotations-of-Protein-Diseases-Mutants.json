@@ -7,7 +7,7 @@
   {"columns": ["l:Uniprot ID"],
   "rows": [["TMPRSS3@TMPRSS3"]]},
 "page:TMPRSS3":
-{"h2:caption": "Wild type and Mutant (C406R) Alignment",
+{"h2:caption": "Protein TMPRSS3 & Disease Mutant C406R Alignment",
  "alnpdb:alignment":{
     "pdb1":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/fold_tmprss3_model_4.pdb",
     "name1":"Wild Type",
@@ -15,17 +15,29 @@
     "name2":"Mutant (C406R)",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_aligned.pdb",
     "lineLen":70,
-    "info":"Aligned Wild type with Mutant using by PROTSUB."
+    "info":"Aligned Wild type with Mutant using by ProtSub."
   },
-"h3:caption1": "Molecular Dynamics Simulations",
-"md:info1":"The heatmap shows residue overlaps (left), changes of dynamics for a mutation (right).",
-  "img:logo5:6": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/overlap_heatmap2.png",
-        "name1":"overlap_heatmap"
+
+  "h3:caption1": "Structural comparison of Protein TMPRSS3 & Disease Mutant C406R",
+"md:info1":"Here, green is the wildtype (right) and red is the mutant (center) models. The superimposed structure shows close structural alignment with an overall RMSD of 3.5 Angstrom (left). ",
+  "img:logo1:8": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_C406R_compared.png",
+        "name1":"tmprss3_C406R_compared"
     },
-    "img:logo6:6": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/md_change.png",
-        "name1":"md_change"
+  "img:logo2:4": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_C406R_aligned_rmsd3_5.png",
+        "name2":"tmprss3_C406R_aligned_rmsd3_5"
+    },
+
+"h3:caption2": "Dynamics from Elastic Network Model",
+"md:info2":"The heatmap shows residue overlaps (left), changes of dynamics for a mutation (right).",
+  "img:logo3:6": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_overlap_heatmap.png",
+        "name3":"tmprss3_overlap_heatmap"
+    },
+    "img:logo4:6": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_overlap_heatmap.png",
+        "name4":"md_change"
     }
  }
 }
