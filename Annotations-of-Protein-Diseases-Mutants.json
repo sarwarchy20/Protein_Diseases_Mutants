@@ -8,7 +8,7 @@
   "rows": [
     ["TMPRSS3@TMPRSS3"],
     ["page2@Comparison of Dynamics Protein"],
-  ["Movies of Dynamics of Protein Kallikrein-11 (KLK11)@page3"]]
+  ["page3@Movies of Dynamics of Protein Kallikrein-11 (KLK11)"]]
   },
 "page:TMPRSS3":
 {"h2:caption": "Protein TMPRSS3 & Disease Mutant C406R Alignment",
@@ -44,8 +44,8 @@
  },
 
 "page:page3":
-{"h3:caption3": "Dynamics from Elastic Network Model",
-"md:info3":"Movies of Dynamics of Protein Kallikrein-11 (KLK11) (left) and Disease Mutant G18E (right).",
+{"h3:caption3": "Movies of Dynamics of Protein Kallikrein-11 (KLK11) (left) and Disease Mutant G18E (right).",
+"md:info3":"Changed dynamics for a ClinVar mutation in comparison with the native structure’s dynamics. This is ANM-based conformational dynamics of Kallikrein-11 (KLK11, NCBI Reference Sequence: NP_001129504.1) based on the first 5 normal modes from the Elastic Network Dynamics. (A) Wildtype KLK11 showing multiple ANM conformations colored by RMSF (blue = rigid, white = intermediate, red= flexible). (B) G18E disease mutant of KLK11. The G18E substitution is associated with an autosomal-dominant cornification disorder. Both structures show a rigid catalytic core (blue) with flexible loop regions (red), particularly at the N- and C-terminal regions. Comparison of wildtype and mutant dynamics reveals changes in the flexibility profile introduced by the mutation.",
     "img:logo4:12": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/klk11_md_change.png",
         "name4":"md_change"
