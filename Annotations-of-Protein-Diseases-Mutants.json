@@ -7,7 +7,7 @@
   {"columns": ["l:Uniprot ID"],
   "rows": [
     ["TMPRSS3@TMPRSS3"],
-    ["Comparison of Dynamics Protein@page2"],
+    ["Comparison of Dynamics Protein@Comparison of Dynamics Protein"],
   ["Movies of Dynamics of Protein Kallikrein-11 (KLK11)@page3"]]
   },
 "page:TMPRSS3":
@@ -34,7 +34,7 @@
     }
 },
   
-"page:page2":
+"page:Comparison of Dynamics Protein":
 {"h3:caption2": "Dynamics from Elastic Network Model",
 "md:info2":"Comparison of Dynamics Protein  FXI, coagulation factor & Disease Mutant C416Y coagulation factor.",
   "img:logo3:12": {
