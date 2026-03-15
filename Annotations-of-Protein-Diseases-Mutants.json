@@ -37,7 +37,7 @@
         "height": "230"
     },
 "h3:caption1": "Molecular Dynamics Simulations",
-"md:info1":"The heatmap below shows residue overlaps (left), changes of dynamics for a mutation (right).",
+"md:info1":"The heatmap shows residue overlaps (left), changes of dynamics for a mutation (right).",
   "img:logo5:6": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/overlap_heatmap2.png",
         "name1":"overlap_heatmap"
