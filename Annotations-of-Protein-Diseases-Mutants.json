@@ -40,7 +40,7 @@
 "md:info":"Molecular Dynamics Simulations",
   "img:logo5:3": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/overlap_heatmap.png",
-        "height": "460",
+        "height": "800",
         "name1":"overlap_heatmap"
     }
  }
