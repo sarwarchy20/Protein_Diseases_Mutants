@@ -37,8 +37,8 @@
         "height": "230"
     },
 "h3:caption1": "Molecular Dynamics Simulations",
-"md:info1":"Molecular Dynamics Simulations",
-  "img:logo5:3": {
+"md:info1":"The heatmap below shows residue overlap during **Molecular Dynamics simulations**.",
+  "img:logo5:12": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/overlap_heatmap.png",
         "name1":"overlap_heatmap"
     }
