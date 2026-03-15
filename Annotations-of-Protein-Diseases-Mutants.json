@@ -13,7 +13,7 @@
     "name1":"Wild Type",
     "pdb2":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/fold_tmprss3_4_c406r_model_4.pdb",
     "name2":"Mutant (C406R)",
-    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_aligned.pdb",
     "lineLen":70,
     "info":"Aligned Wild type with Mutant using by PROTSUB."
   },
