@@ -5,7 +5,11 @@
 "h3:caption2": "List of Proteins", 
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
-  "rows": [["TMPRSS3@TMPRSS3"]]},
+  "rows": [
+    ["TMPRSS3@TMPRSS3"],
+    ["Comparison of Dynamics Protein@page2"],
+  ["Movies of Dynamics of Protein Kallikrein-11 (KLK11)@page3"]]
+  },
 "page:TMPRSS3":
 {"h2:caption": "Protein TMPRSS3 & Disease Mutant C406R Alignment",
  "alnpdb:alignment":{
@@ -27,16 +31,23 @@
   "img:logo2:4": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_C406R_aligned_rmsd3_5.png",
         "name2":"tmprss3_C406R_aligned_rmsd3_5"
-    },
+    }
+},
+  
+"page:page2":
+{"h3:caption2": "Dynamics from Elastic Network Model",
+"md:info2":"Comparison of Dynamics Protein  FXI, coagulation factor & Disease Mutant C416Y coagulation factor.",
+  "img:logo3:12": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprs3_heatmap_5x5.png",
+        "name3":"tmprs3_heatmap_5x5.png"
+    }
+ },
 
-"h3:caption2": "Dynamics from Elastic Network Model",
-"md:info2":"The heatmap shows residue overlaps (left), changes of dynamics for a mutation (right).",
-  "img:logo3:6": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_overlap_heatmap.png",
-        "name3":"tmprss3_overlap_heatmap"
-    },
-    "img:logo4:6": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/tmprss3_overlap_heatmap.png",
+"page:page3":
+{"h3:caption3": "Dynamics from Elastic Network Model",
+"md:info3":"Movies of Dynamics of Protein Kallikrein-11 (KLK11) (left) and Disease Mutant G18E (right).",
+    "img:logo4:12": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/Protein_Diseases_Mutants/master/data/klk11_md_change.png",
         "name4":"md_change"
     }
  }
